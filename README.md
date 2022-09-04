@@ -1,19 +1,19 @@
----
-# SmartAd-abTest
 <!-- Articles: [Medium Article](https://medium.com/@amdeamd7/a-b-test-with-machine-learning-2a3b4ed23487) -->
 
+---
+# SmartAd-abTest
 
+![ab-test](https://images.ctfassets.net/zw48pl1isxmc/4QYN7VubAAgEAGs0EuWguw/165749ef2fa01c1c004b6a167fd27835/ab-testing.png)
 
-[ab-test](https://images.ctfassets.net/zw48pl1isxmc/4QYN7VubAAgEAGs0EuWguw/165749ef2fa01c1c004b6a167fd27835/ab-testing.png)
-
-
+---
 The main objective of this project is to evaluate if the ads that smartAd company runs resulted in a significant lift in brand awareness. 
 
 We will cover:
 
     Setting up  classical & sequencial A/B tesing framework.
     Extracting statistically valid insights in relation to the business objective.
-    formulate a conclusion based on the insights.
+    Draw conclusion based on the satistical insights.
+    
 
 ## Data & Background
 - You can download the data for this project from ![here](https://drive.google.com/file/d/1wZwpTspjw9iE-ByzSFdqem_BXD_yf4uw/view?usp=sharing)

@@ -7,7 +7,7 @@
 
 ---
 The main objective of this project is to evaluate if the ads that smartAd company runs resulted in a significant lift in brand awareness. 
-
+You can read more from: [Medium Article](https://medium.com/@amdeamd7/a-b-test-with-machine-learning-2a3b4ed23487)
 We will cover:
 
     Setting up  classical & sequencial A/B tesing framework.

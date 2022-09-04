@@ -16,7 +16,7 @@ We will cover:
     
 
 ## Data & Background
-- You can download the data for this project from ![here](https://drive.google.com/file/d/1wZwpTspjw9iE-ByzSFdqem_BXD_yf4uw/view?usp=sharing)
+- You can download the data for this project from [here](https://drive.google.com/file/d/1wZwpTspjw9iE-ByzSFdqem_BXD_yf4uw/view?usp=sharing)
     Q: Do you know the brand Lux?
 
 - The BIO data for this project is a “Yes” and “No” response, of online users on the  question.

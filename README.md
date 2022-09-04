@@ -35,7 +35,7 @@ Control group engagment analysis
 ![model](images/control%20engagment.png)
 Expose group engagment analysis
 ![model](images/exposed%20engagment.png)
-P and t value for the groups
+ P and t value for the groups
 ![model](images/p%20value.png)
 
 ## Conclusion

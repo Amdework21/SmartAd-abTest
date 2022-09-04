@@ -4,7 +4,7 @@
 
 
 
-![ab-test](https://miro.medium.com/max/1400/0*rrfrMiF7MDSHUOte)
+![ab-test](https://images.ctfassets.net/zw48pl1isxmc/4QYN7VubAAgEAGs0EuWguw/165749ef2fa01c1c004b6a167fd27835/ab-testing.png)
 
 ---
 The main objective of this project is to evaluate if the ads that smartAd company runs resulted in a significant lift in brand awareness. 
